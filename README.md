@@ -54,3 +54,4 @@ Prompt engineering helps making our questions clear and specific so the AI under
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Vague prompt-Describe United States of America 
 Improved- Describe USA, listing each State, their corresponding capital and what they are known for, the age you can start driving per state and their corresponding governors 
+Improved prompt enables user to get clear concise correct and complete response
